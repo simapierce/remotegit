@@ -1,2 +1,2 @@
-Git is a VCS
-Hello World !
+Git is a VCS .
+Hello World 
